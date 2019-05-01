@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### `in order to make the app works`
+
+you need to create an account on developers.google.com then you hve to create an App under APIs Apps by choosing `youtube data API v3`
+then go to Credentials Tab and create one to be able to have an API key to deal with
